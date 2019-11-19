@@ -1,0 +1,6 @@
+framework module Pods_abi_contents {
+  umbrella header "Pods-abi_contents-umbrella.h"
+
+  export *
+  module * { export * }
+}

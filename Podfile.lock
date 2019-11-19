@@ -1,0 +1,16 @@
+PODS:
+  - ModernSearchBar (1.5)
+
+DEPENDENCIES:
+  - ModernSearchBar
+
+SPEC REPOS:
+  trunk:
+    - ModernSearchBar
+
+SPEC CHECKSUMS:
+  ModernSearchBar: 5dd19c94b1e04f1f83dd9b9950d05153ef2535e5
+
+PODFILE CHECKSUM: 84f68a313aa0975865f2d60e26f15b6377f23679
+
+COCOAPODS: 1.8.4
