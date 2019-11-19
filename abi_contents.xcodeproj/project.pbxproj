@@ -16,6 +16,8 @@
 		3F47E86423837BEF007AA30D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F47E86223837BEF007AA30D /* LaunchScreen.storyboard */; };
 		3F47E86F23837BF0007AA30D /* abi_contentsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47E86E23837BF0007AA30D /* abi_contentsTests.swift */; };
 		3F47E87A23837BF0007AA30D /* abi_contentsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47E87923837BF0007AA30D /* abi_contentsUITests.swift */; };
+		3F47E88B23837FFF007AA30D /* Abi_ContentFormsViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F47E88923837FFF007AA30D /* Abi_ContentFormsViewCell.swift */; };
+		3F47E88C23837FFF007AA30D /* Abi_ContentFormsViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F47E88A23837FFF007AA30D /* Abi_ContentFormsViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +53,8 @@
 		3F47E87523837BF0007AA30D /* abi_contentsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = abi_contentsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F47E87923837BF0007AA30D /* abi_contentsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = abi_contentsUITests.swift; sourceTree = "<group>"; };
 		3F47E87B23837BF0007AA30D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F47E88923837FFF007AA30D /* Abi_ContentFormsViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Abi_ContentFormsViewCell.swift; sourceTree = "<group>"; };
+		3F47E88A23837FFF007AA30D /* Abi_ContentFormsViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Abi_ContentFormsViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 				3F47E85623837BEE007AA30D /* SceneDelegate.swift */,
 				3F47E85823837BEE007AA30D /* ViewController.swift */,
 				3F47E85A23837BEE007AA30D /* Main.storyboard */,
+				3F47E88923837FFF007AA30D /* Abi_ContentFormsViewCell.swift */,
+				3F47E88A23837FFF007AA30D /* Abi_ContentFormsViewCell.xib */,
 				3F47E86023837BEF007AA30D /* Assets.xcassets */,
 				3F47E86223837BEF007AA30D /* LaunchScreen.storyboard */,
 				3F47E86523837BEF007AA30D /* Info.plist */,
@@ -238,6 +244,7 @@
 				3F47E86423837BEF007AA30D /* LaunchScreen.storyboard in Resources */,
 				3F47E86123837BEF007AA30D /* Assets.xcassets in Resources */,
 				3F47E85C23837BEE007AA30D /* Main.storyboard in Resources */,
+				3F47E88C23837FFF007AA30D /* Abi_ContentFormsViewCell.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +270,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F47E85923837BEE007AA30D /* ViewController.swift in Sources */,
+				3F47E88B23837FFF007AA30D /* Abi_ContentFormsViewCell.swift in Sources */,
 				3F47E85523837BEE007AA30D /* AppDelegate.swift in Sources */,
 				3F47E85F23837BEE007AA30D /* abi_contents.xcdatamodeld in Sources */,
 				3F47E85723837BEE007AA30D /* SceneDelegate.swift in Sources */,
